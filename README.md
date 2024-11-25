@@ -1,2 +1,2 @@
 # Hospital-s-website
-Responsive website using Bootstrap
+Responsive UI using Bootstrap
