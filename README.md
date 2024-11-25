@@ -1,2 +1,2 @@
-# Hospital-s-website
+# Hospital-s-website UI
 Responsive UI using Bootstrap
